@@ -26,7 +26,6 @@
 #### Testing CRUD API by hand
 
 
-![image](https://github.com/laassiliawissal/ToDoList/assets/42965555/ca838def-432f-4d7b-96b2-5e1781c14323)
 
 
 ## API Folder
