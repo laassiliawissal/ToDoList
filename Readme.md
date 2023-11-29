@@ -1,11 +1,27 @@
 # TO DO LIST APPLICATION
 
 ## Objectif:
-create a TO DO application to manage your daily tasks
+Create a TO DO List application to manage your daily tasks
 
 ## Tools:
+- **Infrastructure provisionning** : AWS CDK with TypeScript for infrastructure,
+- **Serverless** : AWS Lambda
+- **Database** : AWS DynamoDB
+- **Code** : Python
+- **RestAPI** : FAST API 
+- **Testing** : PyTest
 
-## Steps
+## CRUD app architecture
+## What are we building
+## Infrastructure with AWS CDK
+## Creating the AWS DynamoDB Table
+## Create the AWS Lamnda function
+## Create the Lambda function URL
+## Deploy our CDK Infrastructure
+## Python FastAPI application code
+## Package our Python Dependencies for Lambda
+## Implement CRUD operations
+## Testing CRUD API by hand
 
 ## Run and Test:
 
