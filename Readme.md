@@ -1,7 +1,7 @@
 # TO DO LIST APPLICATION
 
 ## Objectif:
-Build a CRUD TO DO List application to manage your daily tasks, using Python and Fast API, and Hosted in the AWS cloud.
+ Build a CRUD TO DO List application to manage your daily tasks, using Python and Fast API, and Hosted in the AWS cloud.
 
 ## Tools:
 - **Infrastructure provisionning** : AWS CDK with TypeScript for infrastructure,
@@ -15,8 +15,8 @@ Build a CRUD TO DO List application to manage your daily tasks, using Python and
 
 #### CRUD app architecture
 
-#### What are we building
-#### Infrastructure with AWS CDK
+#### 🏗️ What are we building
+####  Infrastructure with AWS CDK
 #### Creating the AWS DynamoDB Table
 #### Create the AWS Lamnda function
 #### Create the Lambda function URL
@@ -30,7 +30,7 @@ Build a CRUD TO DO List application to manage your daily tasks, using Python and
 
 
 
-
+🏘️
 
 
 <!--https://www.youtube.com/watch?v=7dgQRVqF1N0-->
