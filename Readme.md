@@ -13,9 +13,9 @@
 
 ## Steps:
 
-#### CRUD app architecture
-#### 🏗️ What are we building
-####  Infrastructure with AWS CDK
+<!--#### CRUD app architecture
+#### 🏗️ What are we building-->
+#### Infrastructure with AWS CDK
 #### Creating the AWS DynamoDB Table
 #### Create the AWS Lamnda function
 #### Create the Lambda function URL
@@ -31,11 +31,8 @@
 
 🏘️
 # To-do List API: A FastAPI CRUD App
+![image](https://github.com/laassiliawissal/ToDoList/assets/42965555/ca838def-432f-4d7b-96b2-5e1781c14323)
 
-This project is a full-stack CRUD app (a todo-list) with a Python FastAPI backend and a
-NextJS frontend. It is hosted on serverless AWS infrastructure (using Lambda and DynamoDB).
-
-![Task API app](task_api.png)
 
 ## API Folder
 
