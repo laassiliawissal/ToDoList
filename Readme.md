@@ -25,12 +25,7 @@
 #### Implement CRUD operations
 #### Testing CRUD API by hand
 
-## Run and Test:
 
-
-
-🏘️
-# To-do List API: A FastAPI CRUD App
 ![image](https://github.com/laassiliawissal/ToDoList/assets/42965555/ca838def-432f-4d7b-96b2-5e1781c14323)
 
 
