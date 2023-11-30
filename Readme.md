@@ -2,6 +2,8 @@
 
 ## Objectif:
  Build a CRUD TO DO List application to manage your daily tasks, using Python and Fast API, and Hosted in the AWS cloud.
+ 
+<img width="562" alt="Screenshot 2023-11-30 at 11 58 09" src="https://github.com/laassiliawissal/ToDoList/assets/42965555/58e7855c-42ce-4752-995e-4ac0a4bebf4e">
 
 ## Tools:
 - **Infrastructure provisionning** : AWS CDK with TypeScript for infrastructure,
